@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6838'
     url: http://www.gutenberg.org/2009/agents/6838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24904#Golden-Days-for-Boys-and-GirlsVolume-XIII-No.-51--November-12-1892
 gutenberg_bookshelf: Golden Days for Boys and Girls
 gutenberg_issued: '2008-03-23'
 gutenberg_type: Text
